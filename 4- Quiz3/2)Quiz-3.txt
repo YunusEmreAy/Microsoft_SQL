@@ -1,0 +1,14 @@
+1. Araç markası-modeli, araç sahibinin adı-soyadı-ceptelefonu, aracın vites türü, kilometresi ve fiyat bilgilerini getren sorguyu yazınız.
+
+2. Her Araç Sahibinin kaç aracı olduğunu getiren sorguyu yazınız.
+
+3. Markalara göre araçların ortalama fiyatlarını pahalıdan ucuza doğru getiren sorguyu yazınız. 
+
+4. 100000 km altındaki düz vites araçların marko, model, km, yıl ve fiyat bilgilerini getiren sorguyu yazınız.
+
+5. Markalara göre A'dan Z'ye ve fiyata göre pahalıdan ucuza doğru araçları listeleyen sorguyu yazınız. 
+
+6. Düz vites ve otomatik araçların ortalama fiyatlarını getiren sorguyu yazınız.
+
+7. Araç sahiplerinin ad, soyad ve cep telefonu ile birlikte sahip oldukları araçların piyasa değerine göre çoktan aza doğru listeleyen kodu yazınız.
+

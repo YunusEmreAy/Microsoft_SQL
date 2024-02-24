@@ -1,1 +1,2 @@
-# VERİTABANI SİSTEMLERİ DERS İÇERİĞİ --> Microsoft_SQL
+# VERİTABANI SİSTEMLERİ DERS İÇERİĞİ 
+# Microsoft_SQL
